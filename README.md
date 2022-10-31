@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/4error/4error/blob/main/header.png)
 <!--
 **4error/4error** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
