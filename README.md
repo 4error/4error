@@ -1,7 +1,7 @@
 ![alt text](https://github.com/4error/4error/blob/main/header.png)
 <h3 align="center">Loves anything that requires problem-solving and algorithmic thinking.</h3>
 
-
+<p>Sophomore at Ashoka University majoring in Computer Science with strong and demonstrated knowledge of computer fundamentals: Data Structures and Algorithms, Computer Systems, etc.<p>
 
 - 🌱 I’m currently learning **Web Development and Machine Learning**
 
